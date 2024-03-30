@@ -5,6 +5,12 @@ body{
 
 }
 
+.IMAGEN{
+    width: 3rem;
+    height: 3rem;
+    
+}
+
 #container {
     width: 70%;
     padding: 1rem;
